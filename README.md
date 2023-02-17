@@ -1,2 +1,2 @@
-# free-codecamp
-Learning Javascript
+# Sample Project Structure
+React Project
